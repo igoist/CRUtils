@@ -1,0 +1,9 @@
+{
+  "name": "utils",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igoist/CRUtils.git"
+  },
+  "homepage": "https://github.com/igoist/CRUtils#readme"
+}
